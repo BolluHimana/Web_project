@@ -1,0 +1,15 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+    font-style: initial;
+}
+p1{
+    margin: 35px 70px 50px;
+}
+div{
+    color:darkblue;
+    font-size: larger;
+}
+table{
+    border: 5px solid black;
+}
