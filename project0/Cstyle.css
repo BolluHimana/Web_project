@@ -17,3 +17,10 @@ ul{
     font-size: 50px;
     color:brown;    
 }
+ul#menu li{
+    font-size:xx-large;
+    background-color: black;
+    text-align: center;
+    display: inline;
+  }
+
