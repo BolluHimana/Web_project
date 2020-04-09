@@ -1,0 +1,26 @@
+h1{
+    color: crimson;
+    font-style: inherit;
+    text-align: center;
+}
+body{
+    background-image: url('index.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    background-color: darkmagenta;
+}
+p1{
+    color: blue;
+    font-style:normal;
+    font-size: x-large;
+}
+p{
+    color: white;
+    font-size: x-large;
+}
+h3{
+    color: aqua;
+    font-size: x-large;
+}
