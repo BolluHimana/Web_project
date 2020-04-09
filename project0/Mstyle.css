@@ -1,0 +1,25 @@
+
+  
+.row{
+                padding: 20px;
+                background-color: teal;
+                border: 2px solid black;
+ }
+table, th, td {
+                margin: 40px;
+                padding: 15px;
+                border: 1px solid black;
+                border-collapse: collapse;
+ }
+ ul#menu li{
+    font-size:xx-large;
+    background-color: black;
+    text-align: center;
+    display: inline;
+  }
+  body{
+    background-image: url('gg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
