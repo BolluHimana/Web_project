@@ -1,0 +1,30 @@
+ul#menu li{
+    font-size:xx-large;
+    background-color: whitesmoke;
+    text-align: center;
+    display: inline;
+  }
+  body{
+    background-image: url('gg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Two{
+    float: left;
+    width: 49.25%;
+    padding: 5px;
+}
+.one::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+p#t1{
+    font-size: xx-large;
+    color: crimson;
+
+}
+p#t2{
+    font-size:xx-large;
+    color:aqua;
+}
