@@ -10,17 +10,19 @@ div{
     }
 
 }
-.one, .two{
+%msg{
     font-weight: bold;
     padding: 20px;
     margin: 20px; }
   
   .one {
+      @extend %msg;
       font-size: xx-large;
       color: darkgreen;
        }
   
   .two {
+      @extend %msg;
     font-size: x-large; 
 }
 

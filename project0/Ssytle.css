@@ -1,0 +1,35 @@
+div {
+  font-style: oblique; }
+  div p1, div p3, div p5 {
+    color: red; }
+  div p2, div p4 {
+    color: blue; }
+
+.one, .two {
+  font-weight: bold;
+  padding: 20px;
+  margin: 20px; }
+
+.one {
+  font-size: xx-large;
+  color: darkgreen; }
+
+.two {
+  font-size: x-large; }
+
+body {
+  background-image: url("social.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+ul#menu li {
+  font-size: xx-large;
+  background-color: black;
+  text-align: center;
+  display: inline; }
+
+h1 {
+  font-size: xx-large;
+  color: brown; }
+
+/*# sourceMappingURL=Ssytle.css.map */
